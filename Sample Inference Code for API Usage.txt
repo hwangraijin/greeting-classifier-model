@@ -1,0 +1,13 @@
+import requests
+
+# Replace with your model's API URL
+url = "YOUR_INFERIUM_MODEL_API_URL"
+
+# Data to send (input text)
+data = {"text": "Good morning!"}
+
+# Send POST request to the model API
+response = requests.post(url, json=data)
+
+# Print the result (greeting label)
+print(response.json())

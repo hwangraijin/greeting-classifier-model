@@ -1,0 +1,7 @@
+text,label
+"Good morning!",greeting
+"How are you?",greeting
+"Can you send the report by tomorrow?",non-greeting
+"Let's meet for lunch.",non-greeting
+"I have a meeting at 3 PM.",non-greeting
+"Hi there!",greeting

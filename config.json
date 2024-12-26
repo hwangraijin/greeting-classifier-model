@@ -1,0 +1,8 @@
+{
+  "model_name": "greeting_classifier_model",
+  "classifier": "LogisticRegression",
+  "vectorizer": "CountVectorizer",
+  "training_data_size": 6,
+  "input_data_format": "text",
+  "output_data_format": "label"
+}

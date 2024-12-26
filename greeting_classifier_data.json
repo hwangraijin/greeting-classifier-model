@@ -1,0 +1,8 @@
+[
+  {"text": "Good morning!", "label": "greeting"},
+  {"text": "How are you?", "label": "greeting"},
+  {"text": "Can you send the report by tomorrow?", "label": "non-greeting"},
+  {"text": "Let's meet for lunch.", "label": "non-greeting"},
+  {"text": "I have a meeting at 3 PM.", "label": "non-greeting"},
+  {"text": "Hi there!", "label": "greeting"}
+]
